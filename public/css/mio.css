@@ -1,0 +1,45 @@
+   /**
+             * (optional) define here the style definitions which should be applied on the slider container
+             * e.g. width including further controls like arrows etc.
+             */
+            .alert {
+    padding: 20px;
+    padding-left: 0%;
+    background-color: #f44336;
+    color: white;
+    
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+ .alert.success {background-color: #4CAF50;}
+.alert.info {background-color: #2196F3;}
+.alert.warning {background-color: #ff9800;}
+
+.padding-left{
+      padding-top: 20px;      
+      padding-left: 320px;
+      padding-right: 40px;
+    
+}
+.arribadetodo{
+    z-index: 10000
+}
+.paddingtop{
+   padding-top:  60px;
+}
+.paddingtop10{
+  padding-top: 10px;
+}
