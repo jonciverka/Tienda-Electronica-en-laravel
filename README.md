@@ -4,7 +4,7 @@ AUTOR Y COLABORADOR
 ---------------------------
 Aviles Jonathan 
 
-ELEMENTOS EXTERNOS 
+HECHO CON:
 ---------------------------
     *Larevel.
     *Composer.
